@@ -1,5 +1,14 @@
 # Changelog
 
+## [0.88.1](https://github.com/Snowflake-Labs/terraform-provider-snowflake/compare/v0.88.0...v0.88.1) (2024-04-11)
+
+
+### 🐛 **Bug fixes:**
+
+* Adds case statement for ObjectTypeUser in ShowObjectParameter. ([#2675](https://github.com/Snowflake-Labs/terraform-provider-snowflake/issues/2675)) ([23a3341](https://github.com/Snowflake-Labs/terraform-provider-snowflake/commit/23a3341ab416e291fe617888ef09e94b9e69247d))
+* diffs always occurring when multiple columns exist ([#2686](https://github.com/Snowflake-Labs/terraform-provider-snowflake/issues/2686)) ([3275ad4](https://github.com/Snowflake-Labs/terraform-provider-snowflake/commit/3275ad47747ad556faa5043eebf1295f11ae5bcc))
+* Rename grants_redesign_desgin_decisions.md to grants_redesign_design_… ([#2691](https://github.com/Snowflake-Labs/terraform-provider-snowflake/issues/2691)) ([5000b2b](https://github.com/Snowflake-Labs/terraform-provider-snowflake/commit/5000b2b5bb845751eb10de890892deadb8df8bdd))
+
 ## [0.88.0](https://github.com/Snowflake-Labs/terraform-provider-snowflake/compare/v0.87.3-pre...v0.88.0) (2024-04-09)
 
 
